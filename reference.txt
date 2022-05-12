@@ -1,0 +1,12 @@
+what to add/test:
+
+mphx
+
+------------------------------------------------------------------------------------------------------
+
+steps to start haxe:
+
+npm install haxe
+brew install haxe
+haxelib setup
+Path: .
