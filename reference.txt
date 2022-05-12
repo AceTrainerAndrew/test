@@ -11,3 +11,5 @@ brew install haxe
 haxelib setup
 Path: .
 haxelib install lime
+haxelib run lime setup
+Install lime command?: y
