@@ -10,3 +10,4 @@ npm install haxe
 brew install haxe
 haxelib setup
 Path: .
+haxelib install lime
