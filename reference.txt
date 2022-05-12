@@ -9,7 +9,8 @@ steps to start haxe:
 npm install haxe
 brew install haxe
 haxelib setup
-Path: .
+    Path: .
 haxelib install lime
 haxelib run lime setup
-Install lime command?: y
+    Install lime command?: y
+lime install flixel
