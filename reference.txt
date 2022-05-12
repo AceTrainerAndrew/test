@@ -13,4 +13,9 @@ haxelib setup
 haxelib install lime
 haxelib run lime setup
     Install lime command?: y
-lime install flixel
+haxelib install newgrounds
+haxelib install linc_luajit
+haxelib git faxe https://github.com/uhrobots/faxe
+haxelib git polymod https://github.com/larsiusprime/polymod.git
+haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+haxelib git extension-webm https://github.com/KadeDev/extension-webm

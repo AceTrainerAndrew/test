@@ -1,3 +1,4 @@
+/*
 package;
 
 import flixel.FlxG;
@@ -15,7 +16,7 @@ class MP4Handler
 	public var finishCallback:Void->Void;
 	public var stateCallback:FlxState;
 
-	public var bitmap:VlcBitmap;
+//	public var bitmap:VlcBitmap;
 
 	public var sprite:FlxSprite;
 
@@ -172,3 +173,4 @@ class MP4Handler
 			bitmap.volume = 0;
 	}
 }
+*/
